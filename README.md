@@ -53,7 +53,7 @@ These endpoints provide the necessary functionality for user registration, authe
 
 ## Author
 
-[Kishore Thalisetty]
+[Pavan_Varanasi]
 
 ## License
 
